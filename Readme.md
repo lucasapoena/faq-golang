@@ -25,22 +25,13 @@ Cada pasta contém exemplos e exercícios práticos da respectiva fase.
 
 ---
 
-## 📅 Roadmap Resumido
+## 📅 Roadmap
 
-🔹 **Fase 1 — Fundamentos**  
-Variáveis, funções, structs, interfaces, módulos.  
-
-🔹 **Fase 2 — Projetos Iniciais**  
-CLIs simples (calculadora, contador de arquivos, tic-tac-toe).  
-
-🔹 **Fase 3 — Web & Banco de Dados**  
-APIs REST (Gin/Echo), JSON, GORM, Docker.  
-
-🔹 **Fase 4 — Concorrência & Testes**  
-Goroutines, channels, worker pools, testes unitários e benchmarks.  
-
-🔹 **Fase 5 — Avançado**  
-Microserviços, observabilidade, boas práticas em produção.  
+- [Fase 1 — Fundamentos](./01-fundamentos/README.md)
+- [Fase 2 — Projetos Iniciais](./02-projetos-iniciais//README.md)
+- [Fase 3 — Web & Banco de Dados](./03-web-banco-dados//README.md)
+- [Fase 4 — Concorrência & Testes](./04-concorrencia-testes//README.md)
+- [Fase 5 — Avançado](./05-projetos-avancados//README.md)
 
 ---
 
@@ -65,4 +56,3 @@ Acesse a [Wiki do projeto](../../wiki) para ver:
 ---
 
 👨‍💻 *Este roadmap é pessoal e está em constante evolução. Sugestões e contribuições são bem-vindas via Issues ou PRs.*
-```
