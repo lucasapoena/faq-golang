@@ -4,9 +4,9 @@ Objetivo: Aprender a sintaxe básica do Go e entender os conceitos principais.
 
 ## 📖 Conteúdo
 
-* [x] [Instalação do Go e configuração de ambiente](./instalacao.md)
-* [x] Primeiro programa: [hello.go](./exemplos/hello.go) (`package main`, `func main`, `fmt.Println`) 
-* [ ] Variáveis (`var`, `:=`) e constantes (`const`)
+* [x] [Instalação do Go e configuração de ambiente](./exemplos/01_instalacao/README.md)
+* [x] [Primeiro programa:](./exemplos/02_hello-world/README.md) (`package main`, `func main`, `fmt.Println`)
+* [ ] [Variáveis](./exemplos/03_variaveis/README.md) (`var`, `:=`) e constantes (`const`)
 * [ ] Tipos básicos: `int`, `float`, `string`, `bool`
 * [ ] Arrays, slices e maps
 * [ ] Estruturas de controle: `if`, `else`, `switch`
